@@ -6,7 +6,7 @@ LncRNA feature: [PyFeat](https://github.com/mrzResearchArena/PyFeat)
 
 Protein feature: [Biotriangle](http://biotriangle.scbdd.com/protein/index/)
 ## System Requirements
-* pythin-3.6.8
+* python-3.6.8
 * numpy-1.19.5
 * pandas-1.1.5
 * scikit-learn-0.24.0
